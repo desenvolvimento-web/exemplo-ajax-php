@@ -1,2 +1,2 @@
-# exemplo-ajax-php
-Exemplo o mais simples de possível de uma requisição Ajax para o PHP.
+# Exemplo Ajax PHP
+Exemplo o mais simples possível de uma requisição Ajax para o PHP.
